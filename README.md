@@ -1,8 +1,12 @@
 # Emotional expressions among TEDx speakers 
 
+_Vanessa Figini, Akanksha Chatterjee, Tom Heitland, Sahir Dhanani, Caleb Agoha_
 
-Vanessa Figini, Akanksha Chatterjee, Tom Heitland, Sahir Dhanani, Caleb Agoha
+This project served as an initial trial for the newly developed [mexca](https://mexca.readthedocs.io/en/latest/index.html) tool, an open-source Python package designed to capture human emotion expressions from videos. We were supervised by the development team and a professor from the University of Amsterdam. Our goal was to find a creative use case for mexca and provide valuable feedback on its performance and usability.
 
+The repository includes:
+- The project code
+- A report of our findings
 
 # Introduction
 
