@@ -92,6 +92,7 @@ This is further illustrated through the sentiment scores for male and female spe
 Vocal pitch was higher for female speakers than male.
 
 ![alt_text](Vocal%20Pitch%20Analysis%20Graphs/male%20vs%20female%20pitch.png)
+
 _Fig 7: Vocal pitch comparison: Male vs Female_
 
 Vocal pitch did not vary significantly between female and male speakers with formal attire. However, there was a significant difference in pitch between female and male speakers with informal attire.
